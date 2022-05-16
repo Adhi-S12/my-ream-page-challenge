@@ -1,4 +1,4 @@
-<h1 align="center">{My Team Page}</h1>
+<h1 align="center">My Team Page - Solution</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-team-page-adhi.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/AdhipathiPandiyan-S/my-ream-page-challenge">
       Solution
     </a>
     <span> | </span>
